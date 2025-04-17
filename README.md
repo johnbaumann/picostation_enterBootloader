@@ -1,0 +1,1 @@
+Upload this to the PS1 to send a special command which places the picostation into bootloader mode to receive an updated firmware over USB. For development purposes
